@@ -1,0 +1,22 @@
+input{
+    width: 100px;
+    background-color: #7b90eb;
+    border: 0;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 10px;
+  
+}
+input[type="submit"]{
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:  #040c2e;
+    color: white;
+    cursor: grab;
+}
+.campo {
+    padding: 20px;
+    margin: 10px;
+    font-size: 2em;
+}
